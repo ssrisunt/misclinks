@@ -1,7 +1,7 @@
 Web:
 
 # jquery.treeview menu : http://fiddle.jshell.net/5AFTU/light/
-# jquery.treeview - example menu
+# jquery.jqtree - example menu
 
 
             var data = [{
