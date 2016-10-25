@@ -1,7 +1,7 @@
-* Web:
+# Web:
 
-# jquery.treeview menu : http://fiddle.jshell.net/5AFTU/light/
-# jquery.jqtree - example menu : http://mbraak.github.io/jqTree/
+## jquery.treeview menu : http://fiddle.jshell.net/5AFTU/light/
+## jquery.jqtree - example menu : http://mbraak.github.io/jqTree/
 
 
             var data = [{
@@ -40,4 +40,4 @@
               }
             );
             
-* Phoenix Hbase : http://phoenix.apache.org/presentations/OC-HUG-2014-10-4x3.pdf
+# Phoenix Hbase : http://phoenix.apache.org/presentations/OC-HUG-2014-10-4x3.pdf
